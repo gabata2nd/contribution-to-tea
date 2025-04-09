@@ -1,2 +1,3 @@
 # contribution-to-tea
-say hi
+gunfire
+<print="hello world">
